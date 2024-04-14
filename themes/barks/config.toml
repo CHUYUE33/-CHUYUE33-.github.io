@@ -30,11 +30,11 @@
     [params.social.email]
         name = "E-Mail"
         class = "fas fa-envelope"
-        url = "mailto:<shangguanchy>@<shanghaitech.edu.cn>.com"
+        url = "mailto:shangguanchy@shanghaitech.edu.cn"
         weight = 1
     [params.social.github]
         name = "GitHub"
         class = "fab fa-github"
-        url = "https://github.com/<CHUYUE33>"
+        url = "https://github.com/CHUYUE33"
         weight = 2
         
