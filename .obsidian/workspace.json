@@ -148,19 +148,22 @@
   },
   "active": "8cb6e8a645e55547",
   "lastOpenFiles": [
+    "public/tags/scattering/index.xml",
+    "public/tags/scattering",
+    "public/categories/physics/index.xml",
+    "public/categories/physics",
+    "public/posts/scattering/index.html",
+    "public/posts/scattering",
+    "public/posts/index.xml",
+    "public/posts/index.html",
+    "public/posts",
     "conflict-files-obsidian-git.md",
     "content/posts/Scattering.md",
     "hugo.yaml",
     "pics/Scatter.png",
     "pics",
-    "新建文件夹",
     "content/posts/2024m4d14h15m36s57.md",
     "content/posts/2024m4d14h15m30s36.md",
-    "content/posts/2024m4d14h15m32s55.md",
-    "obs_scripts/quickadd/styles.css",
-    "obs_scripts/quickadd/manifest.json",
-    "obs_scripts/quickadd/data.json",
-    "obs_scripts/quickadd/main.js",
-    "obs_scripts/quickadd"
+    "content/posts/2024m4d14h15m32s55.md"
   ]
 }
