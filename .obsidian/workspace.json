@@ -1,0 +1,179 @@
+{
+  "main": {
+    "id": "f3f44074c267324e",
+    "type": "split",
+    "children": [
+      {
+        "id": "efbebf0c1e737ba3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8cb6e8a645e55547",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/posts/Scattering.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "312e0b365e0c8840",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "aec5e345643ec5b3",
+    "type": "split",
+    "children": [
+      {
+        "id": "fb80dfc2db3c993c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "504cf7fb0b39c95d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a221120f49f5cecb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f1a8c9afc4e25c9f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "dd5a15c54ebe18ab",
+    "type": "split",
+    "children": [
+      {
+        "id": "6025e6829efb2f8c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "834fb164e2931cb1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e27f0b32e1a83486",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ecdc67811f39417b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e21cc385cd70744c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "conflict-files-obsidian-git.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "312e0b365e0c8840",
+  "lastOpenFiles": [
+    "content/posts/Scattering.md",
+    "conflict-files-obsidian-git.md",
+    "hugo.yaml",
+    "pics/Scatter.png",
+    "pics",
+    "新建文件夹",
+    "content/posts/2024m4d14h15m36s57.md",
+    "content/posts/2024m4d14h15m30s36.md",
+    "content/posts/2024m4d14h15m32s55.md",
+    "obs_scripts/quickadd/styles.css",
+    "obs_scripts/quickadd/manifest.json",
+    "obs_scripts/quickadd/data.json",
+    "obs_scripts/quickadd/main.js",
+    "obs_scripts/quickadd"
+  ]
+}
