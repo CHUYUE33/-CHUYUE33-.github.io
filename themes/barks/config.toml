@@ -2,3 +2,39 @@
   [module.hugoVersion]
     extended = true
     min = "0.87.0"
+
+[params.head]
+    author = "Carl Barks"
+    custom_css = "<url_to_custom_css_file>"
+    description = "Hi, I'm Carl, and this is my website!"
+    keywords = ["some", "keywords", "to", "describe", "this"]
+    math:true
+
+[params.navigation]
+    show_navigation = true
+
+[params.footer]
+    show_footer = true
+
+[params.typography]
+    title_font = "Bree Serif"
+    body_font = "Source Sans Pro"
+
+[params.colors]
+    theme_color = "#333333"
+    background_color = "#fcfbf9"
+    text_color = "#333333"
+    link_color = "#60c17d"        
+
+[params.social]
+    [params.social.email]
+        name = "E-Mail"
+        class = "fas fa-envelope"
+        url = "mailto:<shangguanchy>@<shanghaitech.edu.cn>.com"
+        weight = 1
+    [params.social.github]
+        name = "GitHub"
+        class = "fab fa-github"
+        url = "https://github.com/<CHUYUE33>"
+        weight = 2
+        
